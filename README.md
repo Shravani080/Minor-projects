@@ -1,1 +1,2 @@
 # Minor-projects
+minor projects
